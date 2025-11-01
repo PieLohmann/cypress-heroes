@@ -1,0 +1,7 @@
+{
+"adminAccess": "admin@test.com",
+"password": "test123",
+"userAccess": "test@test.com",
+"wrongAccess": "test@gmail.com",
+"wrongPassword": "pass123"
+}
