@@ -12,6 +12,7 @@ describe('Success Login', () => {
     it('Should Login whith user access', () => {
         LoginPage.accessLoginPage()
         LoginPage.loginAsUser(userData.userAccess,userData.password)
+        
     })
 })
 
